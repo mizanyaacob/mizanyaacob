@@ -179,11 +179,11 @@ Passion: Exploring gameplay mechanics & systems
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mizanyaacob&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72&area=true&area_color=58A6FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mizanyaacob&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72&area=true&area_color=58A6FF" />
 </div>
 
 ---
@@ -210,7 +210,7 @@ Passion: Exploring gameplay mechanics & systems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammdamizan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amizanyaacob@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=codepen&logoColor=white)](https://your-portfolio-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizanyaacob)
 
 </div>
 
@@ -221,7 +221,7 @@ Passion: Exploring gameplay mechanics & systems
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=58A6FF&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=mizanyaacob&color=58A6FF&style=for-the-badge&label=Profile+Views" />
 </div>
 
 <div align="center">
