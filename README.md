@@ -174,8 +174,8 @@ Passion: Exploring gameplay mechanics & systems
 ## <img src="https://user-images.githubusercontent.com/74038190/216122049-276f2b8c-bcb6-4d42-9bae-e7e8e6c3a4d4.png" width="30" /> GitHub Journey
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&custom_title=My+GitHub+Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mizanyaacob&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&custom_title=My+GitHub+Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanyaacob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
 <div align="center">
