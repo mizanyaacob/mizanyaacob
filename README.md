@@ -17,12 +17,12 @@
 
 <div align="center">
 
-```
-Role     │ Software Engineer (Junior Game Engineer)
-Company  │ Passion Republic Sdn. Bhd., Kuala Lumpur
-Stack    │ Unreal Engine 5 · C++ · TeamCity · Perforce · Linux
-Focus    │ Real-Time Systems · CI/CD · Gameplay & AI Engineering
-```
+| | |
+|---:|:---|
+| 🧑‍💻 **Role** | Software Engineer (Junior Game Engineer) |
+| 🏢 **Company** | Passion Republic Sdn. Bhd., Kuala Lumpur |
+| 🛠️ **Stack** | Unreal Engine 5 · C++ · TeamCity · Perforce · Linux |
+| 🎯 **Focus** | Real-Time Systems · CI/CD · Gameplay & AI Engineering |
 
 </div>
 
