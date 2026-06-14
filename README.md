@@ -1,231 +1,182 @@
-# <div align="center">🎮 Muhammad Amizan Yaacob</div>
+# 👋 Muhammad Amizan Yaacob
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Game+Technology+Student+%F0%9F%8E%93;AI+%26+Adaptive+Systems+Enthusiast+%F0%9F%A7%A0;Gameplay+Programming+Explorer+%F0%9F%95%B9%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%7C+C%2B%2B+%2F+C%23+%C2%B7+Real-Time+Systems+%C2%B7+CI%2FCD;Unreal+Engine+5+%7C+Game+Dev+%7C+Full-Stack+Web;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://github.com/mizanyaacob)
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20My%20Digital%20Playground&fontSize=24&fontColor=ffffff&animation=twinkling" />
-</div>
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome+to+My+Digital+Playground&fontSize=24&fontColor=ffffff&animation=twinkling)](https://github.com/mizanyaacob)
 
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+## ![](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png) About Me
 
-<div align="center">
-<table>
-<tr>
-<td width="35%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" />
-</td>
-<td width="65%">
+- ![](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif) 🎯 **Current Role**
 
-### 🎯 **Current Journey**
-```yaml
-Status: Final Year Game Technology Student @ UTeM
-Focus: Learning AI-Driven Adaptive Game Systems
-Goal: Building immersive player experiences
-Passion: Exploring gameplay mechanics & systems
+```
+Company : Passion Republic Sdn. Bhd., Kuala Lumpur
+Role    : Software Engineer (Junior Game Engineer)
+Stack   : Unreal Engine 5 · C++ · TeamCity · Perforce · Linux
+Focus   : Real-Time Systems · CI/CD · Gameplay & AI Engineering
 ```
 
-### 🌱 **Learning & Growing**
-- 🎮 Developing gameplay programming skills
-- 🤖 Exploring AI integration in games  
-- 🏆 Participating in game jams to improve
-- 🌐 Experimenting with web game technologies
-- 📚 Studying player behavior & adaptive systems
-
-</td>
-</tr>
-</table>
-</div>
+🌱 **What I'm Working On**
+- ⚙️ Owning CI/CD pipelines (TeamCity) — cut build delivery from ~45 min to <5 min
+- 🚀 Shipping gameplay & AI systems in C++ (Behavior Trees, physics, Gameplay Framework)
+- 🌐 Building production web products — [kotakkosong.my](https://kotakkosong.my)
+- 🤖 Integrating AI-assisted dev workflows (Claude Code, Cursor, Gemini CLI)
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Recent Achievements
+## ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Production Highlights
 
-<div align="center">
-
-| 🏆 **Competition** | 🎮 **Project** | 🥇 **Result** | 📅 **Year** |
-|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/UM_Game_Jam-FF6B6B?style=flat-square) | Various Projects | 🥉 2nd Runner-up | 2024 |
-| ![](https://img.shields.io/badge/MMU_GDC_Jam-4ECDC4?style=flat-square) | AEKI | 🥉 2nd Runner-up | 2025 |
-| ![](https://img.shields.io/badge/Indie_Jam-45B7D1?style=flat-square) | Raya Rumble | 🥉 2nd Runner-up | 2025 |
-| ![](https://img.shields.io/badge/Multimedia_Showcase-96CEB4?style=flat-square) | Meja Jawi AR | 🥉 3rd Place | 2024 |
-
-</div>
+| ⚡ Achievement | 📊 Impact |
+|---|---|
+| CI/CD Pipeline (TeamCity) | ~45 min manual builds → **<5 min automated delivery**, saving 4–6 hrs/week |
+| CPU Optimisation (Unreal Insights) | **63% frame time reduction** — 22 ms → 8 ms on mobile hardware |
+| System Architecture | Entrusted to design foundation of a new production title from scratch |
+| Bug Resolution | Resolved **20+ production bugs** in legacy and new C++ codebases |
+| AI Dev Integration | **20–30% faster** refactoring/debugging with AI-assisted workflows |
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" /> Tech Stack I'm Learning
+## ![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif) Tech Stack
 
-<div align="center">
+### 💻 Languages
+[![](https://skillicons.dev/icons?i=cpp,cs,ts,js,python,sql&theme=dark)](https://skillicons.dev)
 
-### 💻 **Programming Languages**
-<img src="https://skillicons.dev/icons?i=cpp,js,cs,python,mysql&theme=dark" />
+### 🎮 Game Development
+[![](https://skillicons.dev/icons?i=unreal,unity,threejs,flutter&theme=dark)](https://skillicons.dev)
 
-### 🎮 **Game Development**
-<img src="https://skillicons.dev/icons?i=unity,unreal,threejs,flutter&theme=dark" />
+### 🌐 Web & Backend
+[![](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,postgres,mysql,tailwind&theme=dark)](https://skillicons.dev)
 
-### 🛠️ **Tools & Technologies**
-<img src="https://skillicons.dev/icons?i=blender,git,vscode,github,figma&theme=dark" />
+### 🛠️ DevOps & Tools
+[![](https://skillicons.dev/icons?i=git,github,vscode,figma,blender,linux&theme=dark)](https://skillicons.dev)
+[![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white)](https://www.jetbrains.com/teamcity/)
+[![Perforce](https://img.shields.io/badge/Perforce-404040?style=flat-square&logoColor=white)](https://www.perforce.com/)
 
-### 🤖 **AI & Emerging Tech**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Tilt Five](https://img.shields.io/badge/Tilt_Five-8A2BE2?style=for-the-badge&logoColor=white)
-![AR/VR](https://img.shields.io/badge/AR/VR-FF6F00?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏰 **Defense Craft**
-
-**Tech Stack:**
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-*A Minecraft-inspired 3D tower defense game built for web browsers*
-
-[![Play Demo](https://img.shields.io/badge/🎮_Play_Live_Demo-00D9FF?style=for-the-badge)](https://moonlit-entremet-84f04d.netlify.app/)
-
-</td>
-<td width="50%">
-
-### 🧩 **AEKI**
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9c0b-6e4e7e3c9f7b.gif" width="300" />
-
-**Tech Stack:**
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-*Memory reconstruction puzzle game focusing on narrative and emotional connection*
-
-🏆 **MMU GDC Jam 2025 - 2nd Runner-up**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎊 **Raya Rumble**
-<img src="https://user-images.githubusercontent.com/74038190/212284045-15ffa9b6-8b25-462d-b146-56d8e97bedd7.gif" width="300" />
-
-**Tech Stack:**
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Multiplayer](https://img.shields.io/badge/Multiplayer-ff6b6b?style=flat-square)
-
-*Local multiplayer chaos game celebrating Malaysian festive culture*
-
-🥉 **Indie Jam 2025 - 2nd Runner-up**
-
-</td>
-<td width="50%">
-
-### 📚 **Meja Jawi AR**
-<img src="https://user-images.githubusercontent.com/74038190/212284109-f5b0c3c1-d9a3-4b0b-ba5e-9e8f5d0b5c7a.gif" width="300" />
-
-**Tech Stack:**
-![AR](https://img.shields.io/badge/AR-FF6F00?style=flat-square)
-![Education](https://img.shields.io/badge/Education-4CAF50?style=flat-square)
-
-*Interactive AR application for teaching Jawi script to children*
-
-🥉 **3rd Place - Multimedia Showcase**
-
-</td>
-</tr>
-</table>
-
-### 🚀 **Current Project (FYP)**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" />
-</div>
-
-#### 🔮 **Adaptive Holographic Game**
-*Exploring AI-driven adaptive mechanics with holographic display technology*
-
-![AI Driven](https://img.shields.io/badge/AI_Driven-00D4AA?style=for-the-badge)
-![Tilt Five](https://img.shields.io/badge/Tilt_Five-8A2BE2?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-
-*Still in development - Learning about player profiling and adaptive game systems*
-
-</div>
+### 🤖 AI & Emerging Tech
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Tilt Five](https://img.shields.io/badge/Tilt_Five-8A2BE2?style=for-the-badge&logoColor=white)](https://www.tiltfive.com/)
+[![AR/VR](https://img.shields.io/badge/AR/VR-FF6F00?style=for-the-badge&logoColor=white)](https://github.com/mizanyaacob)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logoColor=white)](https://claude.ai)
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276f2b8c-bcb6-4d42-9bae-e7e8e6c3a4d4.png" width="30" /> GitHub Journey
+## ![](https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png) Projects
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mizanyaacob&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&custom_title=My+GitHub+Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanyaacob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</div>
+### 🏢 **Kotak Kosong Studios — Production Website**
+**Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mizanyaacob&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mizanyaacob&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72&area=true&area_color=58A6FF" />
-</div>
+*Primary client-acquisition channel for an interactive-experience studio — responsive UI, SEO, Open Graph metadata, CDN-backed media (Cloudinary).*
+🌐 **Live at [kotakkosong.my](https://kotakkosong.my)**
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122044-9b57ac8b-e4dc-41c5-b8b7-c3d1c6b6b1d7.png" width="30" /> Let's Connect!
+### 🔐 **Secure Authentication Service & REST API**
+**Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284077-2d6e3f7e-a8c9-4b4b-b2f5-e6b4b4b6b4b4.gif" width="400" />
-</div>
+*Production-style REST auth service with JWT session management, bcrypt password hashing, input validation, and a Unity C# client (UnityWebRequest, async flow).*
 
-<div align="center">
+---
 
-### 🤝 **Always Open To:**
+### 🔮 **Adaptive Holographic Game** — 🥇 Gold Award, Jejak Inovasi (National)
+**Stack:** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) [![Tilt Five](https://img.shields.io/badge/Tilt_Five-8A2BE2?style=flat-square)](https://www.tiltfive.com/) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+
+*Real-time adaptive system that personalises quests, dialogue, and difficulty via OpenAI API — built on modular OOP architecture with real-time player profiling for holographic AR display.*
+
+---
+
+### 🏰 **Defense Craft** — Web Tower Defense
+**Stack:** ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+*Minecraft-inspired 3D tower defense game built for web browsers.*
+🎮 **[Play Demo](https://moonlit-entremet-84f04d.netlify.app/)**
+
+---
+
+### 🧩 **AEKI** — 🥉 MMU GDC Jam 2025, 2nd Runner-up
+**Stack:** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+*Memory reconstruction puzzle game focusing on narrative and emotional connection.*
+
+---
+
+### 🎊 **Raya Rumble** — 🥉 Indie Jam 2025, 2nd Runner-up
+**Stack:** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity) ![Multiplayer](https://img.shields.io/badge/Multiplayer-ff6b6b?style=flat-square)
+
+*Local multiplayer chaos game celebrating Malaysian festive culture.*
+
+---
+
+### 📚 **Meja Jawi AR** — 🥉 2nd Runner-Up, National DBP Competition
+**Stack:** ![AR](https://img.shields.io/badge/AR-FF6F00?style=flat-square) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity) ![Vuforia](https://img.shields.io/badge/Vuforia-1A1A2E?style=flat-square)
+
+*Marker-based AR educational app for teaching Jawi script to children, optimised for low-end Android devices.*
+
+---
+
+## 🏆 Competitions & Awards
+
+| 🥇 Award | 🎮 Project | 📅 Year |
+|---|---|---|
+| 🥇 Gold Award — Jejak Inovasi (National) | Adaptive Holographic Game | 2025 |
+| 🥉 2nd Runner-up — MMU GDC Jam | AEKI | 2025 |
+| 🥉 2nd Runner-up — Indie Jam | Raya Rumble | 2025 |
+| 🥉 2nd Runner-up — UM Game Jam | Various | 2024 |
+| 🥉 2nd Runner-up — Workshop II Innovation | Various | 2024 |
+| 🥉 3rd Place — Multimedia Showcase (DBP) | Meja Jawi AR | 2024 |
+
+---
+
+## 🎓 Education & Certifications
+
+**Bachelor of IT (Game Technology), Hons.** — Universiti Teknikal Malaysia Melaka (UTeM)
+CGPA **3.90 / 4.00** · Dean's List every semester · 2022–2025
+
+**Certifications:**
+[![Unity](https://img.shields.io/badge/Unity_Programmer_Certification-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/products/unity-certifications)
+[![AI](https://img.shields.io/badge/NIIT_Professional_Certificate-AI-blue?style=flat-square)](https://www.niit.com/)
+[![Flutter](https://img.shields.io/badge/Flutter_Certification-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+
+---
+
+## 👨‍🏫 Training & Leadership
+
+> Trained **150+ students** across 3 national programs (MDEC NextGen TeenXchange — appointed Unity Trainer; MDEC Digital Ninja; MAHFAA) delivering hands-on engineering workshops, guiding teams from concept to functional prototypes, including inclusive sessions for autistic learners.
+
+---
+
+## ![](https://user-images.githubusercontent.com/74038190/216122049-276f2b8c-bcb6-4d42-9bae-e7e8e6c3a4d4.png) GitHub Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=mizanyaacob&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&custom_title=My+GitHub+Stats)](https://github.com/mizanyaacob)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mizanyaacob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/mizanyaacob)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mizanyaacob&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)](https://github.com/mizanyaacob)
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=mizanyaacob&theme=tokyo-night&hide_border=true&bg_color=0D11172&color=58A6FF&line=58A6FF&point=FF7B72&area=true&area_color=58A6FF)](https://github.com/mizanyaacob)
+
+---
+
+## ![](https://user-images.githubusercontent.com/74038190/216122044-9b57ac8b-e4dc-41c5-b8b7-c3d1c6b6b1d7.png) Let's Connect!
+
+### 🤝 Open To:
 ```
-🎮 Game Development Learning Opportunities
-🤖 AI/ML Gaming Experiments  
-🏆 Game Jam Collaborations
-💼 Internship Opportunities
-🎓 Knowledge Sharing & Mentorship
+⚙️  Game Engineering / Real-Time Systems Discussions
+🤖  AI/ML in Games & Interactive Media
+🏆  Game Jam Collaborations
+💼  Engineering Opportunities
+🎓  Mentorship & Knowledge Sharing
 ```
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammdamizan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amizanyaacob@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=codepen&logoColor=white)](https://amizanyaacob.netlify.app/)
+[![Studio](https://img.shields.io/badge/Studio-Kotak_Kosong-4ECDC4?style=for-the-badge)](https://kotakkosong.my)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizanyaacob)
-
-</div>
 
 ---
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn" />
-</div>
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn)](https://github.com/mizanyaacob)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mizanyaacob&color=58A6FF&style=for-the-badge&label=Profile+Views" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284103-e7d8b7e3-5c8c-4b4b-b4b4-b4b4b4b4b4b4.gif" width="50" />
-  <br>
-  <sub>🎮 Made with passion by Muhammad Amizan Yaacob | Student Developer on a Learning Journey 🚀</sub>
-</div>
+[![](https://komarev.com/ghpvc/?username=mizanyaacob&color=58A6FF&style=for-the-badge&label=Profile+Views)](https://github.com/mizanyaacob)
