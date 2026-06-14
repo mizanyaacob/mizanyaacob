@@ -103,13 +103,13 @@ Production-style REST auth service with JWT session management, bcrypt password 
 
 ---
 
-### 🔮 Adaptive Holographic Game &nbsp;·&nbsp; 🥇 Gold Award — Jejak Inovasi (National)
+### 🔮 Adaptive Holographic Game &nbsp;·&nbsp; 🥇 Gold — Jejak Inovasi (National) &nbsp;·&nbsp; 🥈 Silver — ITEX (International)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Tilt Five](https://img.shields.io/badge/Tilt_Five-8A2BE2?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-Real-time adaptive system personalising quests, dialogue, and difficulty via OpenAI API — modular OOP architecture with real-time player profiling on holographic AR hardware.
+Real-time adaptive system personalising quests, dialogue, and difficulty via OpenAI API — modular OOP architecture with real-time player profiling on holographic AR hardware. Qualified and awarded at **ITEX** (International Invention, Innovation & Technology Exhibition).
 
 ---
 
@@ -155,6 +155,7 @@ Marker-based AR educational app for teaching Jawi script to children, optimised 
 | Award | Project | Year |
 |:---:|:---|:---:|
 | 🥇 Gold — Jejak Inovasi (National) | Adaptive Holographic Game | 2025 |
+| 🥈 Silver — ITEX (International) | Adaptive Holographic Game | 2025 |
 | 🥉 2nd Runner-up — MMU GDC Jam | AEKI | 2025 |
 | 🥉 2nd Runner-up — Indie Jam | Raya Rumble | 2025 |
 | 🥉 2nd Runner-up — UM Game Jam | Various | 2024 |
